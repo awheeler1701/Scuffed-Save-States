@@ -2,7 +2,7 @@ local lovely = require("lovely")
 local nativefs = require("nativefs")
 
 
-local saveKeys = { "1", "2", "3", "4", "5" }
+local saveKeys = { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }
 
 function SSS.key_press_update(key)
 	-- Scuff Save States Key Handler

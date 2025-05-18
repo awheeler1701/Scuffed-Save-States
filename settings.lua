@@ -1,1 +1,1 @@
-return {["keybinds"]={["loadState"]="x",["saveState"]="z",},}
+return {["keybinds"]={["loadState"]="l",["saveState"]="s",},}

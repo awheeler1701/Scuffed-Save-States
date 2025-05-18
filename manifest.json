@@ -3,7 +3,7 @@
 	"name": "Scuffed-Save-States",
 	"display_name": "Scuffed Save States",
 	"author": ["OceanRamen, GamingMeister"],
-	"description": "Older versions of the Brainstorm mod by OceanRamen contained a save-states feature; This is a direct rip of just that code. CONTROLS: | Z + 1-5: Save current gamestate | X + 1-5: Load save state",
+	"description": "Older versions of the Brainstorm mod by OceanRamen contained a save-states feature; This is a near-direct rip of just that code. CONTROLS: | S + 0-9: Save current gamestate | L + 0-9: Load save state",
 	"prefix": "scuffed-save-states",
 	"main_file": "settings.lua",
 	"version": "1.0.0-alpha",
