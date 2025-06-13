@@ -3,7 +3,7 @@
 	"name": "Scuffed-Save-States",
 	"display_name": "Scuffed Save States",
 	"author": ["OceanRamen, GamingMeister"],
-	"description": "Older versions of the Brainstorm mod by OceanRamen contained a save-states feature; This is a near-direct rip of just that code. CONTROLS: | S + 0-9: Save current gamestate | L + 0-9: Load save state",
+	"description": "Older versions of the Brainstorm mod by OceanRamen contained a save-states feature; This is a near-direct rip of just that code. CONTROLS: | S + 0-9: Save current gamestate | L + 0-9: Load save state | S + R: Save current gamestate as a raw file | L + R: Attempt to load a gamestate from this raw file. NOTE: Any failure to load a save-state for any reason, will simply cause the mod to \"load\" a new run, which may have bugged behaviors. It is advised to simply scrap that save-state, and load a working one, or start a fresh run.",
 	"prefix": "scuffed-save-states",
 	"main_file": "settings.lua",
 	"version": "1.0.0-alpha",
